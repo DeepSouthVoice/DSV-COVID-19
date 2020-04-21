@@ -1,6 +1,6 @@
 # deep-south-covid
 
-Special thanks to Michael Creel (https://github.com/mrcreel)
+Special thanks to Michael Creel (https://github.com/mrcreel) for his code contributions to the project.
 
 ## Sources
 
