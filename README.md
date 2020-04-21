@@ -1,4 +1,4 @@
-# deep-south-covid
+# DSV-COVID-19
 
 Special thanks to Michael Creel (https://github.com/mrcreel) for his code contributions to the project.
 
