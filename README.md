@@ -4,7 +4,7 @@ Deep South Voice is releasing the code and data files of county level counts of 
 
 We have used this code and the datasets it generates to power our maps and assist in our reporting and are now making it available to the public.
 
-*Created by William Pittman (william@deepsouthvoice.com).*
+*Created by [William Pittman](https://github.com/ws-pittman) (william@deepsouthvoice.com).*
 
 ## Project Notes
 
