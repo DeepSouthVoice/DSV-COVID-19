@@ -5849,6 +5849,71 @@ State,County,Date,Cases,Deaths
 22,West Feliciana,04/20/20,78,1
 22,Winn,04/20/20,19,2
 22,Unknown,04/20/20,59,1
+22,Acadia,04/21/20,114,7
+22,Allen,04/21/20,79,9
+22,Ascension,04/21/20,515,31
+22,Assumption,04/21/20,151,1
+22,Avoyelles,04/21/20,69,7
+22,Beauregard,04/21/20,36,2
+22,Bienville,04/21/20,66,9
+22,Bossier,04/21/20,241,11
+22,Caddo,04/21/20,1310,83
+22,Calcasieu,04/21/20,334,20
+22,Caldwell,04/21/20,15,0
+22,Cameron,04/21/20,3,0
+22,Catahoula,04/21/20,24,1
+22,Claiborne,04/21/20,50,5
+22,Concordia,04/21/20,26,2
+22,De Soto,04/21/20,168,10
+22,East Baton Rouge,04/21/20,1560,90
+22,East Carroll,04/21/20,1,0
+22,East Feliciana,04/21/20,101,8
+22,Evangeline,04/21/20,43,0
+22,Franklin,04/21/20,87,2
+22,Grant,04/21/20,12,0
+22,Iberia,04/21/20,195,10
+22,Iberville,04/21/20,281,21
+22,Jackson,04/21/20,15,0
+22,Jefferson,04/21/20,5802,288
+22,Jefferson Davis,04/21/20,57,5
+22,Lafayette,04/21/20,429,17
+22,Lafourche,04/21/20,576,30
+22,La Salle,04/21/20,14,0
+22,Lincoln,04/21/20,52,2
+22,Livingston,04/21/20,158,9
+22,Madison,04/21/20,4,0
+22,Morehouse,04/21/20,39,4
+22,Natchitoches,04/21/20,58,1
+22,Orleans,04/21/20,6169,344
+22,Ouachita,04/21/20,532,13
+22,Plaquemines,04/21/20,164,13
+22,Pointe Coupee,04/21/20,80,10
+22,Rapides,04/21/20,213,7
+22,Red River,04/21/20,21,4
+22,Richland,04/21/20,38,0
+22,Sabine,04/21/20,14,0
+22,St. Bernard,04/21/20,428,12
+22,St. Charles,04/21/20,516,29
+22,St. Helena,04/21/20,21,1
+22,St. James,04/21/20,228,16
+22,St. John the Baptist,04/21/20,686,57
+22,St. Landry,04/21/20,136,26
+22,St. Martin,04/21/20,193,13
+22,St. Mary,04/21/20,160,16
+22,St. Tammany,04/21/20,1067,74
+22,Tangipahoa,04/21/20,489,19
+22,Tensas,04/21/20,1,0
+22,Terrebonne,04/21/20,346,25
+22,Union,04/21/20,82,5
+22,Vermilion,04/21/20,33,1
+22,Vernon,04/21/20,14,1
+22,Washington,04/21/20,206,13
+22,Webster,04/21/20,79,4
+22,West Baton Rouge,04/21/20,90,12
+22,West Carroll,04/21/20,4,0
+22,West Feliciana,04/21/20,81,1
+22,Winn,04/21/20,19,2
+22,Unknown,04/21/20,59,2
 22,Tested,04/21/20,142430,0
 22,Tested,04/20/20,142099,0
 22,Tested,04/19/20,141504,0
@@ -5985,3 +6050,4 @@ State,County,Date,Cases,Deaths
 22,Deaths,04/18/20,1267,0
 22,Deaths,04/19/20,1296,0
 22,Deaths,04/20/20,1328,0
+22,Deaths,04/21/20,1405,0
